@@ -1,0 +1,5 @@
+{
+	"appService.preDeployTask": "publish-release",
+	"appService.deploySubpath": "bin\\Release\\netcoreapp3.1\\publish",
+	"appService.defaultWebAppToDeploy": "/subscriptions/9d10dd68-a370-465c-a0ae-3c8d1bca6451/resourceGroups/ConversationalBotTest/providers/Microsoft.Web/sites/CoversationalBotPilot"
+}

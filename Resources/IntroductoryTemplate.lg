@@ -1,0 +1,18 @@
+# Greeting
+- Hi
+- Hello
+
+#TimeOfDay
+- Morning
+- Evening
+
+# FinalGreeting
+- ${Greeting()} ${TimeOfDay()}
+
+# TimeOfDayWithCondition
+- IF: ${time == 'morning'}
+    - ${Greeting()} Morning
+- ELSEIF: ${time == 'evening'}
+    - ${Greeting()} Evening
+- ELSE:
+    - ${Greeting()} Afternoon

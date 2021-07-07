@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Monmon\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Monmon\\.nuget\\packages"
+    ]
+  }
+}
